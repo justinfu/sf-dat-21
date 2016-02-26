@@ -59,6 +59,8 @@ Review the following resources as an introduction to some commonly used concepts
 14. From the "people" object, return Brandon's state only: `people = {'Alice': ['Washington', 'DC'], 'Brandon': ['Arlington', 'VA']}`
 15. Define a function "calc" that takes two variables, "a" and "b", and returns their sum
 
+DON'T REVIEW THE [ANSWER KEY](python-self-assesment-answer-key.md) UNTIL YOU'VE COMPLETED THE SELF-ASSESSMENT
+
 ## Additional Resources (Optional)
 
 Below are links to some resources that may supplement your Python learning experience.  They are **NOT** required and there is no single "best" resource; instead, you should try out a few and then focus on the one that teaches Python in a way that you understand.
