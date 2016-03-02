@@ -13,7 +13,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 0 | | [Pre-Work](./pre-work) | |
 | | | **Unit 1 - Research Design and Exploratory Data Analysis** |
 | 1 | 2/25 | [What is Data Science](./classes/01) | [Unit Project 1](./unit-projects/1) and [Final Project 1](./final-project/1) assigned |
-| 1 | 3/1 | Research Design and Pandas | |
+| 1 | 3/1 | [Research Design and _pandas_](./classes/02) | |
 | 2 | 3/3 | Statistics Fundamentals I | **[Unit Project 1](./unit-projects/1) due**; Unit Project 2 assigned |
 | 2 | 3/8 | Statistics Fundamentals II | **Unit Project 2 due**; Unit Project 3 assigned |
 | 3 | 3/10 | Flexible Class Session | |
@@ -70,8 +70,8 @@ You've all been invited to use [Slack](https://sf-dat-21.slack.com) for chat dur
 
 | Final Project, Part | Description | Goal | Assigned | Due |
 |:---:|:---|:---|:---:|:---:|
-| [1](./final-project/1) | Lightning Presentation | Prepare a one-minute lightning talk that covers 3 potential project topics | 2/25 | 3/22 12:00PM |
-| 2 | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | 3/22 | 4/12 6:30PM |
-| 3 | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | 4/12 | 4/19 6:30PM |
-| 4 | Notebook Draft | Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics | 4/19 | 4/26 6:30PM |
-| 5 | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 4/26 | 5/3 12:00PM |
+| [1](./final-project/1) | Lightning Presentation | Prepare a one-minute lightning talk that covers 3 potential project topics | 2/25 | 3/22 12:00PM Pacific |
+| 2 | Experiment Write-Up | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics | 3/22 | 4/12 6:30PM Pacific |
+| 3 | Exploratory Analysis | Confirm your data and create an exploratory analysis notebook with stat analysis and visualization | 4/12 | 4/19 6:30PM Pacific |
+| 4 | Notebook Draft | Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics | 4/19 | 4/26 6:30PM Pacific |
+| 5 | Presentation | Detailed presentation deck that relates your data, model, and findings to a non-technical audience | 4/26 | 5/3 12:00PM Pacific |
